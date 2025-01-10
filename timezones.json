@@ -1,23 +1,5 @@
 [
     {
-        "value": "Dateline Standard Time",
-        "abbr": "DST",
-        "offset": -12,
-        "isdst": false,
-        "text": "(UTC-12:00) International Date Line West",
-        "utc": "Etc/GMT+12",
-        "country": null
-    },
-    {
-        "value": "UTC-11",
-        "abbr": "U",
-        "offset": -11,
-        "isdst": false,
-        "text": "(UTC-11:00) Coordinated Universal Time-11",
-        "utc": "Etc/GMT+11",
-        "country": null
-    },
-    {
         "value": "UTC-11",
         "abbr": "U",
         "offset": -11,
@@ -43,15 +25,6 @@
         "text": "(UTC-11:00) Coordinated Universal Time-11",
         "utc": "Pacific/Pago_Pago",
         "country": "American Samoa"
-    },
-    {
-        "value": "Hawaiian Standard Time",
-        "abbr": "HST",
-        "offset": -10,
-        "isdst": false,
-        "text": "(UTC-10:00) Hawaii",
-        "utc": "Etc/GMT+10",
-        "country": null
     },
     {
         "value": "Hawaiian Standard Time",
@@ -189,15 +162,6 @@
         "country": "United States of America"
     },
     {
-        "value": "US Mountain Standard Time",
-        "abbr": "UMST",
-        "offset": -7,
-        "isdst": false,
-        "text": "(UTC-07:00) Arizona",
-        "utc": "Etc/GMT+7",
-        "country": null
-    },
-    {
         "value": "Mountain Standard Time (Mexico)",
         "abbr": "MDT",
         "offset": -6,
@@ -286,15 +250,6 @@
         "text": "(UTC-06:00) Central America",
         "utc": "America/Tegucigalpa",
         "country": "Honduras"
-    },
-    {
-        "value": "Central America Standard Time",
-        "abbr": "CAST",
-        "offset": -6,
-        "isdst": false,
-        "text": "(UTC-06:00) Central America",
-        "utc": "Etc/GMT+6",
-        "country": null
     },
     {
         "value": "Central America Standard Time",
@@ -421,15 +376,6 @@
         "text": "(UTC-05:00) Bogota, Lima, Quito",
         "utc": "America/Panama",
         "country": "Panama"
-    },
-    {
-        "value": "SA Pacific Standard Time",
-        "abbr": "SPST",
-        "offset": -5,
-        "isdst": false,
-        "text": "(UTC-05:00) Bogota, Lima, Quito",
-        "utc": "Etc/GMT+5",
-        "country": null
     },
     {
         "value": "Eastern Standard Time",
@@ -828,15 +774,6 @@
         "country": "Dominican Republic"
     },
     {
-        "value": "SA Western Standard Time",
-        "abbr": "SWST",
-        "offset": -4,
-        "isdst": false,
-        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "utc": "Etc/GMT+4",
-        "country": null
-    },
-    {
         "value": "Pacific SA Standard Time",
         "abbr": "PSST",
         "offset": -4,
@@ -927,15 +864,6 @@
         "country": "Falkland Islands"
     },
     {
-        "value": "SA Eastern Standard Time",
-        "abbr": "SEST",
-        "offset": -3,
-        "isdst": false,
-        "text": "(UTC-03:00) Cayenne, Fortaleza",
-        "utc": "Etc/GMT+3",
-        "country": null
-    },
-    {
         "value": "Greenland Standard Time",
         "abbr": "GDT",
         "offset": -3,
@@ -981,15 +909,6 @@
         "country": "South Georgia and the South Sandwich Islands"
     },
     {
-        "value": "UTC-02",
-        "abbr": "U",
-        "offset": -2,
-        "isdst": false,
-        "text": "(UTC-02:00) Coordinated Universal Time-02",
-        "utc": "Etc/GMT+2",
-        "country": null
-    },
-    {
         "value": "Azores Standard Time",
         "abbr": "ADT",
         "offset": 0,
@@ -1017,15 +936,6 @@
         "country": "Cabo Verde"
     },
     {
-        "value": "Cape Verde Standard Time",
-        "abbr": "CVST",
-        "offset": -1,
-        "isdst": false,
-        "text": "(UTC-01:00) Cape Verde Is.",
-        "utc": "Etc/GMT+1",
-        "country": null
-    },
-    {
         "value": "Morocco Standard Time",
         "abbr": "MDT",
         "offset": 1,
@@ -1051,15 +961,6 @@
         "text": "(UTC) Coordinated Universal Time",
         "utc": "America/Danmarkshavn",
         "country": "Greenland"
-    },
-    {
-        "value": "UTC",
-        "abbr": "UTC",
-        "offset": 0,
-        "isdst": false,
-        "text": "(UTC) Coordinated Universal Time",
-        "utc": "Etc/GMT",
-        "country": null
     },
     {
         "value": "GMT Standard Time",
@@ -1764,15 +1665,6 @@
         "country": "Tunisia"
     },
     {
-        "value": "W. Central Africa Standard Time",
-        "abbr": "WCAST",
-        "offset": 1,
-        "isdst": false,
-        "text": "(UTC+01:00) West Central Africa",
-        "utc": "Etc/GMT-1",
-        "country": null
-    },
-    {
         "value": "Namibia Standard Time",
         "abbr": "NST",
         "offset": 1,
@@ -1940,15 +1832,6 @@
         "offset": 3,
         "isdst": true,
         "text": "(UTC+02:00) E. Europe",
-        "utc": "Europe/Uzhhorod",
-        "country": null
-    },
-    {
-        "value": "E. Europe Standard Time",
-        "abbr": "EEDT",
-        "offset": 3,
-        "isdst": true,
-        "text": "(UTC+02:00) E. Europe",
         "utc": "Europe/Vilnius",
         "country": "Lithuania"
     },
@@ -2052,15 +1935,6 @@
         "country": "Mozambique"
     },
     {
-        "value": "South Africa Standard Time",
-        "abbr": "SAST",
-        "offset": 2,
-        "isdst": false,
-        "text": "(UTC+02:00) Harare, Pretoria",
-        "utc": "Etc/GMT-2",
-        "country": null
-    },
-    {
         "value": "FLE Standard Time",
         "abbr": "FDT",
         "offset": 3,
@@ -2113,15 +1987,6 @@
         "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
         "utc": "Europe/Tallinn",
         "country": "Estonia"
-    },
-    {
-        "value": "FLE Standard Time",
-        "abbr": "FDT",
-        "offset": 3,
-        "isdst": true,
-        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
-        "utc": "Europe/Uzhhorod",
-        "country": null
     },
     {
         "value": "FLE Standard Time",
@@ -2358,15 +2223,6 @@
         "country": "Antarctica"
     },
     {
-        "value": "E. Africa Standard Time",
-        "abbr": "EAST",
-        "offset": 3,
-        "isdst": false,
-        "text": "(UTC+03:00) Nairobi",
-        "utc": "Etc/GMT-3",
-        "country": null
-    },
-    {
         "value": "Moscow Standard Time",
         "abbr": "MSK",
         "offset": 3,
@@ -2455,15 +2311,6 @@
         "text": "(UTC+04:00) Abu Dhabi, Muscat",
         "utc": "Asia/Dubai",
         "country": "French Southern Territories"
-    },
-    {
-        "value": "Arabian Standard Time",
-        "abbr": "AST",
-        "offset": 4,
-        "isdst": false,
-        "text": "(UTC+04:00) Abu Dhabi, Muscat",
-        "utc": "Etc/GMT-4",
-        "country": null
     },
     {
         "value": "Azerbaijan Standard Time",
@@ -2579,15 +2426,6 @@
         "offset": 5,
         "isdst": false,
         "text": "(UTC+05:00) Ashgabat, Tashkent",
-        "utc": "Etc/GMT-5",
-        "country": null
-    },
-    {
-        "value": "West Asia Standard Time",
-        "abbr": "WAST",
-        "offset": 5,
-        "isdst": false,
-        "text": "(UTC+05:00) Ashgabat, Tashkent",
         "utc": "Indian/Kerguelen",
         "country": "French Southern Territories"
     },
@@ -2680,15 +2518,6 @@
         "text": "(UTC+06:00) Nur-Sultan (Astana)",
         "utc": "Asia/Urumqi",
         "country": "China"
-    },
-    {
-        "value": "Central Asia Standard Time",
-        "abbr": "CAST",
-        "offset": 6,
-        "isdst": false,
-        "text": "(UTC+06:00) Nur-Sultan (Astana)",
-        "utc": "Etc/GMT-6",
-        "country": null
     },
     {
         "value": "Central Asia Standard Time",
@@ -2808,15 +2637,6 @@
         "country": "Indonesia"
     },
     {
-        "value": "SE Asia Standard Time",
-        "abbr": "SAST",
-        "offset": 7,
-        "isdst": false,
-        "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
-        "utc": "Etc/GMT-7",
-        "country": null
-    },
-    {
         "value": "N. Central Asia Standard Time",
         "abbr": "NCAST",
         "offset": 7,
@@ -2907,15 +2727,6 @@
         "country": "Singapore"
     },
     {
-        "value": "Singapore Standard Time",
-        "abbr": "MPST",
-        "offset": 8,
-        "isdst": false,
-        "text": "(UTC+08:00) Kuala Lumpur, Singapore",
-        "utc": "Etc/GMT-8",
-        "country": null
-    },
-    {
         "value": "W. Australia Standard Time",
         "abbr": "WAST",
         "offset": 8,
@@ -2986,15 +2797,6 @@
         "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
         "utc": "Asia/Tokyo",
         "country": "Japan"
-    },
-    {
-        "value": "Japan Standard Time",
-        "abbr": "JST",
-        "offset": 9,
-        "isdst": false,
-        "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
-        "utc": "Etc/GMT-9",
-        "country": null
     },
     {
         "value": "Japan Standard Time",
@@ -3074,15 +2876,6 @@
         "offset": 10,
         "isdst": false,
         "text": "(UTC+10:00) Guam, Port Moresby",
-        "utc": "Etc/GMT-10",
-        "country": null
-    },
-    {
-        "value": "West Pacific Standard Time",
-        "abbr": "WPST",
-        "offset": 10,
-        "isdst": false,
-        "text": "(UTC+10:00) Guam, Port Moresby",
         "utc": "Pacific/Guam",
         "country": "Guam"
     },
@@ -3146,15 +2939,6 @@
         "offset": 11,
         "isdst": false,
         "text": "(UTC+11:00) Solomon Is., New Caledonia",
-        "utc": "Etc/GMT-11",
-        "country": null
-    },
-    {
-        "value": "Central Pacific Standard Time",
-        "abbr": "CPST",
-        "offset": 11,
-        "isdst": false,
-        "text": "(UTC+11:00) Solomon Is., New Caledonia",
         "utc": "Pacific/Efate",
         "country": "Vanuatu"
     },
@@ -3211,15 +2995,6 @@
         "text": "(UTC+12:00) Auckland, Wellington",
         "utc": "Pacific/Auckland",
         "country": "New Zealand"
-    },
-    {
-        "value": "UTC+12",
-        "abbr": "U",
-        "offset": 12,
-        "isdst": false,
-        "text": "(UTC+12:00) Coordinated Universal Time+12",
-        "utc": "Etc/GMT-12",
-        "country": null
     },
     {
         "value": "UTC+12",
@@ -3301,15 +3076,6 @@
         "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old",
         "utc": "Asia/Kamchatka",
         "country": "Russia"
-    },
-    {
-        "value": "Tonga Standard Time",
-        "abbr": "TST",
-        "offset": 13,
-        "isdst": false,
-        "text": "(UTC+13:00) Nuku'alofa",
-        "utc": "Etc/GMT-13",
-        "country": null
     },
     {
         "value": "Tonga Standard Time",
